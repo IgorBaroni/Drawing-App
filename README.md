@@ -1,2 +1,2 @@
 # Drawing-App
-Drawing App made with HTML Canvas, CSS and JS
+Drawing App made using HTML Canvas, CSS and JS
